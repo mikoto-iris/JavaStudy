@@ -16,7 +16,7 @@ public class Practice1 {
 
 		// ラムダ式の実行
 		numList.stream().forEach(num -> System.out.print(message + num));
-		System.out.print("\r\n\r\n");
+		System.out.print("\r\n");
 
 
 		// 解説
